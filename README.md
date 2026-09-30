@@ -1,6 +1,6 @@
 # Hi, I'm Chetan Babu Mahendiran 👋
 
-**Data Scientist & Analyst**, MSc in Data Science & Analytics, Munster Technological University (Cork, Ireland)
+**Data Scientist & Analyst**, MSc in Data Science & Analytics, Munster Technological University · 📍 Ireland
 
 I turn messy, real-world data into clear decisions, using machine learning, statistical modelling, time-series forecasting and business intelligence dashboards.
 
@@ -24,7 +24,7 @@ I turn messy, real-world data into clear decisions, using machine learning, stat
 | [COVID-19 Vaccination Analysis](https://github.com/CHETAN-BABU/covid19-vaccination-analysis) | EDA and hypothesis testing of vaccination vs mortality, with validated cleaning code | Python, pandas |
 
 ## 📫 Connect
-- LinkedIn: *add your link*
-- Email: *add your email*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chetan--babu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-babu/)
+[![Email](https://img.shields.io/badge/Email-chetanbabu07%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:chetanbabu07@gmail.com)
 
-*Open to Data Scientist / Data Analyst roles.*
+*Open to Data Scientist / Data Analyst roles in Ireland.*
