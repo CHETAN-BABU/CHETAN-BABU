@@ -4,7 +4,7 @@
 
 I turn messy, real-world data into clear decisions, using machine learning, statistical modelling, time-series forecasting and business intelligence dashboards.
 
-🏅 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300, 2025)
+🏅 **Microsoft Certified: Power BI Data Analyst Associate** (PL-300) · [verify credential](https://learn.microsoft.com/en-us/users/chetanbabumahendiran-0417/credentials/certification/data-analyst-associate?tab=credentials-tab)
 
 ## 🧰 Tech stack
 **Languages:** Python · R · SQL · DAX · Power Query (M)
