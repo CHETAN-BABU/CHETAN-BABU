@@ -18,7 +18,7 @@ I turn messy, real-world data into clear decisions, using machine learning, stat
 | [SECOM Fault Detection](https://github.com/CHETAN-BABU/secom-semiconductor-fault-detection) | Predicts semiconductor manufacturing failures from 591 sensors on heavily imbalanced data (PCA, SMOTE, DT/SVM/k-NN) | Python, scikit-learn |
 | [Sarcasm Detection](https://github.com/CHETAN-BABU/sarcasm-detection-naive-bayes) | NLP pipeline and Naive Bayes classifier for sarcastic headlines, ~81% accuracy | Python, NLP |
 | [Clustering from Scratch](https://github.com/CHETAN-BABU/clustering-from-scratch-kmeans-dbscan) | Prototype clustering, DBSCAN and silhouette score written in pure NumPy | Python, NumPy |
-| [FAANG Stock PCA](https://github.com/CHETAN-BABU/faang-stock-pca) | Reduces 16 technical indicators to trend, momentum and volatility factors (90.6% of variance) | Python, PCA, FA |
+| [FAANG Stock PCA](https://github.com/CHETAN-BABU/faang-stock-pca) | Reduces 16 technical indicators to trend, momentum and volatility factors (93% of variance) | Python, PCA, FA |
 | [Household Power Forecasting](https://github.com/CHETAN-BABU/household-power-forecasting) | Holt-Winters vs SARIMA forecasting of electricity demand | R, forecast |
 | [CEO Sales Dashboard](https://github.com/CHETAN-BABU/superstore-ceo-dashboard-powerbi) | Executive Power BI dashboard with DAX KPIs, Key Influencers and drill-through | Power BI, DAX |
 | [COVID-19 Vaccination Analysis](https://github.com/CHETAN-BABU/covid19-vaccination-analysis) | EDA and hypothesis testing of vaccination vs mortality, with validated cleaning code | Python, pandas |
